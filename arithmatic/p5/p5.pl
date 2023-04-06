@@ -1,4 +1,4 @@
-
+goldbach(N,L) :-
 
 
 
